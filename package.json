@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "day8",
+  "main": "gulpfils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxinxin3/day8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxinxin3/day8/issues"
+  },
+  "homepage": "https://github.com/zhangxinxin3/day8#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
